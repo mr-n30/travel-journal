@@ -1,11 +1,11 @@
 # Travel Journal
-A project created from a FreeCodeCamp YouTube video to learn React
+A project created from [YouTube FreeCodeCamp Video](https://youtu.be/x4rFhThSX04?si=suAWmksm1Unn6Lmq) to learn React. Check out the finished project here 👉 [travel-journal](https://mr-n30.github.io/travel-journal/)
 
 ---
 
 ## Install
 ```sh
-git clone https://github.com/mr-n30/travel-journal.git
+git clone https://mr-n30.github.io/travel-journal.git
 cd travel-journal
 npm install
 ```
@@ -19,7 +19,11 @@ npm run dev
 
 ---
 
-# Thanks for viewing!
-```
-I created this project to help me learn React
-```
+## ReactFacts 
+image
+
+---
+
+## Thanks for viewing!
+This project took me a while to complete and I'm still new to this. Let me know what you think and what I can improve on!
+
