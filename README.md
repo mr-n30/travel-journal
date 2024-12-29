@@ -19,8 +19,8 @@ npm run dev
 
 ---
 
-## ReactFacts 
-image
+## Travel Journal 
+![image](https://github.com/user-attachments/assets/d8d9c32b-cf60-4ed5-a0a2-aac1dee83749)
 
 ---
 
